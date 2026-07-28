@@ -12,3 +12,5 @@ if (hasShipped) {
 } else {
   console.log(`${yourName}, you will not receive a package. Lock in.`);
 }
+
+export{};
