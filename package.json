@@ -1,0 +1,13 @@
+{
+  "name": "koda-typescript-course",
+  "version": "1.0.0",
+  "description": "My 12-week TypeScript journey building toward Koda",
+  "private": true,
+  "scripts": {
+    "day1": "npx tsx week-01-typescript-foundations/day-1-variables-and-types.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.16.0",
+    "typescript": "^5.5.0"
+  }
+}
