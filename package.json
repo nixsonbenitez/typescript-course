@@ -4,7 +4,9 @@
   "description": "My 12-week TypeScript journey building toward Koda",
   "private": true,
   "scripts": {
-    "day1": "npx tsx week-01-typescript-foundations/day-1-variables-and-types.ts"
+    "day1": "npx tsx week-01-typescript-foundations/day-1-variables-and-types/day-1-variables-and-types.ts",
+    "day2": "npx tsx week-01-typescript-foundations/day-2-functions/day-2-functions.ts",
+    "day3": "npx tsx week-01-typescript-foundations/day-3-arrays-and-objects/day-3-arrays-and-objects.ts"
   },
   "devDependencies": {
     "tsx": "^4.16.0",
