@@ -39,3 +39,6 @@ const saved: SavedTask = {
     createdAt: "2026-08-03",
     userID: "u_42"
 }
+
+
+//What interfaces and types have in common is that they give a name to the shape of your data
